@@ -1,3 +1,9 @@
+/*
+This program was orginally developed by Broken Admin
+Please view his other works at https://github.com/Broken-Admin/
+Thanks for using my Random Number Generator!
+*/
+
 #include <stdio.h>
 #include <iostream>
 #include <stdlib.h>
